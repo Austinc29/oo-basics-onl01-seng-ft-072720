@@ -33,7 +33,5 @@ class Shoe
   def initialize(cobble)
     @cobble = cobble
   end 
-  def cobble
-    @cobble
-  end 
+  
 end 
