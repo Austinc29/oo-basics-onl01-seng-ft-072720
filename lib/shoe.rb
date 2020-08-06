@@ -36,3 +36,4 @@ class Shoe
   
 end 
 
+shoe = Shoe.new("Repaired")
