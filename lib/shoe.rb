@@ -37,4 +37,3 @@ class Shoe
 end 
 
 
-shoe.cobble
