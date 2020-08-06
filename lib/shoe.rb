@@ -36,4 +36,5 @@ class Shoe
   
 end 
 
-
+shoe = Shoe.new("repaired")
+shoe.cobble
