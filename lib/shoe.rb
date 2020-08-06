@@ -30,4 +30,10 @@ class Shoe
   def condition
     @condition
   end 
+  def initialize(cobble)
+    @cobble = cobble
+  end 
+  def cobble
+    @cobble
+  end 
 end 
