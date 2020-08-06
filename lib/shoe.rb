@@ -24,14 +24,14 @@ class Shoe
   def material
     @material
   end 
-  def condition=(condition)
+  def condition=(condition=("new"))
     @condition = condition
   end 
   def condition
     @condition
   end 
   def cobble 
-    puts 
+    puts ("Your shoe is as good as new!")
   end 
   
 end 
